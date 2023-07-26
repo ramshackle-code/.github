@@ -1,6 +1,86 @@
+![](https://avatars.githubusercontent.com/u/115084075?s=200&v=4)
+
+# Ramshackle Code Community Code of Conduct
+**Version 1.0 - 26/7/23 - English**
+
+## Our Values
+
+At Ramshackle Code, we value diversity, respect, empathy, and inclusion. We believe that every individual has something valuable to contribute, and by working together, we can achieve amazing results. We encourage all members to respect diverse opinions and experiences and seek mutual understanding in all situations.
+
+## Expected Behavior
+
+To build and maintain a positive environment, we ask you to follow these guidelines when interacting within our community:
+
+1. Be kind and respectful: Treat all members with courtesy and consideration. We do not tolerate offensive language, personal attacks, or intimidating behavior.
+
+2. Maintain a safe environment: We do not tolerate any form of harassment, discrimination, or behavior that causes discomfort to other members. This includes derogatory comments based on gender, sexual orientation, race, religion, disability, or any other personal characteristic.
+
+3. Collaborate constructively: We value constructive criticism and different opinions. Express your ideas clearly and concisely, and be receptive to feedback from others.
+
+4. Respect privacy and intellectual property: Do not share others' private information without their consent. Also, respect the intellectual property of others and ensure you have the necessary rights before using or modifying third-party content.
+
+5. Be patient and understanding: We acknowledge that everyone has different levels of experience. Always show patience and offer your help in a kind manner.
+
+## Contributions and License
+
+By making contributions to Ramshackle Code repositories, you agree that your contributions become part of the content under the same license that governs the repository where you made the contribution. Also, ensure compliance with the project's license terms before making any contributions.
+
+## Private Repositories
+
+At Ramshackle Code, we respect the privacy and confidentiality of repositories designated as "private" within our organization. Therefore, authorization from the organization's administrators is required before copying, distributing, or disclosing the content of such repositories.
+
+## Code of Conduct Enforcement
+
+The Ramshackle Code administrators reserve the right to remove, edit, or reject any contribution, comment, or interaction that does not comply with this Code of Conduct. If you witness or experience any violation or behavioral issue, please report it to ramshackle-code@piscinadeentropia.es, where it will be investigated confidentially and fairly.
+
+## Enforcement Procedures
+
+If someone believes they have witnessed or been subject to behavior that violates this Code of Conduct, we encourage them to report it to the Ramshackle Code administrators. All reports will be reviewed and investigated promptly and fairly.
+
+Community leaders are responsible for enforcing this Code of Conduct and will take appropriate and fair measures in response to any behavior they consider inappropriate, threatening, offensive, or harmful.
+
+## Enforcement Guidelines
+
+Community leaders will follow these Community Impact Guidelines to determine the consequences for any action deemed to violate this Code of Conduct:
+
+### 1. Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from community leaders, providing clarity about the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+
+### 2. Warning
+
+**Community Impact**: A violation through a single incident or series of actions.
+
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+
+### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within the community.
+
+<hr>
+
+We appreciate your commitment to making Ramshackle Code a welcoming, inclusive, and collaborative place for all members. Your participation and contributions are invaluable, and we look forward to building a successful community together.
+
+Thank you for being a part of Ramshackle Code and contributing to the growth of our project.
+
+Contact Email: ramshackle-code@piscinadeentropia.es
+
+
+<hr>
+
 ![](https://avatars.githubusercontent.com/u/115084075?s=200&v=4!%5Bimage%5D(https://github.com/ramshackle-code/.github-private/assets/77550577/cb352bce-cf8e-424c-827d-fd0feff74f48))
 # Código de Conducta de la Comunidad de Ramshackle Code
-**Versión 1.0 - 26/7/23**
+**Versión 1.0 - 26/7/23 - Español**
 
 
 ## Nuestros Valores
