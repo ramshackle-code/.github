@@ -19,6 +19,7 @@ Becoming a member of our organization is totally free of charge but has some req
 - Speak English or Spanish
 - Have some computer skills
 - Not to have more than one member account at a time in the organization. (If this were the case it would violate the code of conduct of the organization and would be expelled immediately, this rule does not apply to administrators).
+- Not use Nano
 
   
 ### CODE OF CONDUCT
