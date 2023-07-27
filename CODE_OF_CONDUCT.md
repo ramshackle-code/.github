@@ -75,6 +75,7 @@ Thank you for being a part of Ramshackle Code and contributing to the growth of 
 
 Contact Email: ramshackle-code@piscinadeentropia.es
 
+© Ramshackel Code 2023
 
 <hr>
 
@@ -154,3 +155,5 @@ Agradecemos tu compromiso para hacer de Ramshackle Code un lugar acogedor, inclu
 Gracias por ser parte de Ramshackle Code y contribuir al crecimiento de nuestro proyecto.
 
 E-Mail de contacto: ramshackle-code@piscinadeentropia.es
+
+© Ramshackel Code 2023
