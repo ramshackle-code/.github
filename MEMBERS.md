@@ -30,6 +30,6 @@ We kindly request all members, users, contributors, and administrators of the or
 
 To become member please fill out this form:
 
-
+https://docs.google.com/forms/d/e/1FAIpQLSdTu0c4nvAeUpbJ-nCysXX8u8LxOPpIKXECjk4_1IGMi0JD7w/viewform?usp=sf_link
 
 © Ramshackel Code 2023
