@@ -19,4 +19,8 @@ We appreciate everyone's commitment to these principles and values. Together, we
 
 Thank you for being part of this community and contributing to its success!
 
+## Become Member
+
+If you want to start being part of our community, please, [read this document](https://github.com/ramshackle-code/.profile/MEMBERS.md)
+
 © Ramshackel Code 2023
