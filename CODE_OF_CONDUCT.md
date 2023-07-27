@@ -1,7 +1,7 @@
 ![](https://avatars.githubusercontent.com/u/115084075?s=200&v=4)
 
 # Ramshackle Code Community Code of Conduct
-**Version 1.0 - 26/7/23 - English**
+**Version 2.0 - 27/7/23 - English**
 
 ## Our Values
 
@@ -97,7 +97,7 @@ Contact Email: ramshackle-code@piscinadeentropia.es
 
 ![](https://avatars.githubusercontent.com/u/115084075?s=200&v=4!%5Bimage%5D(https://github.com/ramshackle-code/.github-private/assets/77550577/cb352bce-cf8e-424c-827d-fd0feff74f48))
 # Código de Conducta de la Comunidad de Ramshackle Code
-**Versión 1.0 - 26/7/23 - Español**
+**Versión 2.0 - 27/7/23 - Español**
 
 
 ## Nuestros Valores
