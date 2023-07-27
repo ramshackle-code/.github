@@ -18,3 +18,5 @@ Our community is based on mutual respect, inclusion and collaboration. Each indi
 We appreciate everyone's commitment to these principles and values. Together, we will build a community that fosters creativity, learning and professional growth in a friendly and respectful environment for all.
 
 Thank you for being part of this community and contributing to its success!
+
+© Ramshackel Code 2023
