@@ -21,13 +21,29 @@ To build and maintain a positive environment, we ask you to follow these guideli
 
 5. Be patient and understanding: We acknowledge that everyone has different levels of experience. Always show patience and offer your help in a kind manner.
 
+## Integrity and Ethical Conduct
+
+As a valued member of the Ramshackle Code community, we expect you to maintain the highest level of integrity and ethical conduct. Specifically, we strictly prohibit any involvement in activities that may constitute intellectual property crime, computer fraud, or data theft. These actions not only undermine the trust within our community but also go against the principles of fairness and honesty that we uphold.
+
+We emphasize the importance of adhering to legal and ethical standards in all aspects of your participation in our community. Any member found engaging in any form of intellectual property crime, computer fraud, or data theft will be subject to appropriate disciplinary measures, which may include expulsion from the community.
+
+By upholding these principles, we collectively create a safe and supportive environment for all members to thrive and collaborate. Let us stand together in promoting a community that values integrity, respect, and responsible conduct in every endeavor.
+
 ## Contributions and License
 
 By making contributions to Ramshackle Code repositories, you agree that your contributions become part of the content under the same license that governs the repository where you made the contribution. Also, ensure compliance with the project's license terms before making any contributions.
 
-## Private Repositories
+### Rules for Members
 
-At Ramshackle Code, we respect the privacy and confidentiality of repositories designated as "private" within our organization. Therefore, authorization from the organization's administrators is required before copying, distributing, or disclosing the content of such repositories.
+"Members" refer to all individuals who are part of the Ramshackle Code community. For the purposes of this code of conduct, the rules stated here apply exclusively to community members, excluding both non-member users and organization administrators.
+
+1. **Prohibited Multiple Accounts**: Creating multiple accounts with deceptive or malicious purposes is not allowed and may result in disciplinary actions. These measures may include temporary expulsion from all additional accounts, leaving the user with a single account. Repeated violations may lead to permanent expulsion.
+
+2. **Unauthorized Distribution of Private Repositories Content**: At Ramshackle Code, we respect the privacy and confidentiality of repositories designated as "private" within our organization. Therefore, authorization from the organization's administrators is required before copying, distributing, or disclosing the content of such repositories.
+
+3. **Member Requirements**: Members of the Ramshackle Code community must comply with the requirements specified in the corresponding document to maintain their active member status. If any member fails to meet these requirements, their member privileges may be revoked until they are fulfilled again.
+
+[Please refer to the following document for membership requirements](https://github.com/ramshackle-code/.profile/MEMBERS.md)
 
 ## Code of Conduct Enforcement
 
@@ -102,13 +118,27 @@ Para construir y mantener un ambiente positivo, te pedimos que sigas estas pauta
 
 5. Sé paciente y comprensivo/a: Reconocemos que cada persona tiene diferentes niveles de experiencia. Siempre muestra paciencia y ofrece tu ayuda de manera amable.
 
+## Respeto e Integridad ante la ley
+
+Como miembro valioso de la comunidad de Ramshackle Code, esperamos que mantenga el más alto nivel de integridad y conducta ética. En concreto, prohibimos estrictamente cualquier participación en actividades que puedan constituir delitos contra la propiedad intelectual, fraude informático o robo de datos. Estas acciones no sólo socavan la confianza dentro de nuestra comunidad, sino que también van en contra de los principios de imparcialidad y honestidad que defendemos.
+
+Insistimos en la importancia de respetar las normas legales y éticas en todos los aspectos de su participación en nuestra comunidad. Cualquier miembro al que se descubra participando en cualquier forma de delito contra la propiedad intelectual, fraude informático o robo de datos será objeto de las medidas disciplinarias oportunas, que pueden incluir la expulsión de la comunidad.
+
+Al defender estos principios, creamos colectivamente un entorno seguro y propicio para que todos los miembros prosperen y colaboren. Unámonos para promover una comunidad que valore la integridad, el respeto y la conducta responsable en todas sus actividades.
+
 ## Contribuciones y Licencia
 
 Al realizar contribuciones en los repositorios de Ramshackle Code, aceptas que tus aportaciones pasen a formar parte del contenido bajo la misma licencia que rige el repositorio en el que hiciste la contribución. Asimismo, asegúrate de cumplir con los términos de la licencia del proyecto antes de realizar cualquier contribución.
 
-## Repositorios Privados
+### Normas para Miembros
 
-En Ramshackle Code, respetamos la privacidad y confidencialidad de los repositorios designados como "privados" dentro de nuestra organización. Por lo tanto, es necesaria la autorización de los administradores de la organización antes de copiar, distribuir o divulgar el contenido de dichos repositorios.
+Se entiende por "miembros" a todas las personas que forman parte de la comunidad de Ramshackle Code. A los efectos de este código de conducta, las normas aquí establecidas aplican exclusivamente a los miembros de la comunidad, excluyendo tanto a los usuarios no miembros como a los administradores de la organización.
+
+1. **Prohibido tener más de una cuenta en la organización**: La creación de múltiples cuentas con fines engañosos o malintencionados no está permitida y puede resultar en medidas disciplinarias. Estas medidas pueden incluir la expulsión temporal de todas las cuentas adicionales y dejar al usuario con una única cuenta. En caso de que esta infracción se repita, se procederá a la expulsión permanente del usuario.
+2. **Prohibida la distribución no autorizada del contenido de los repositorios privados:** En Ramshackle Code, respetamos la privacidad y confidencialidad de los repositorios designados como "privados" dentro de nuestra organización. Por lo tanto, es necesaria la autorización de los administradores de la organización antes de copiar, distribuir o divulgar el contenido de dichos repositorios.
+3. **Requisitos de miembro:** Los miembros de la comunidad de Ramshackle Code deben cumplir con los requisitos establecidos en dicho documento para mantener su estatus de miembro activo. Si algún miembro no cumple con estos requisitos, sus privilegios de miembro podrían ser revocados hasta que se cumplan nuevamente.
+
+[Por favor, consulta los requisitos para ser miembro en el siguiente documento](https://github.com/ramshackle-code/.profile/MEMBERS.md)
 
 ## Aplicación del Código de Conducta
 
