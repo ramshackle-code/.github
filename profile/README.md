@@ -21,8 +21,6 @@ Thank you for being part of this community and contributing to its success!
 
 ## Become Member
 
-**Currently, a recommendation from a current community member is required to join the community.**
-
-If you want to start being part of our community, please, [read this document](https://github.com/ramshackle-code/.profile/MEMBERS.md)
+If you want to start being part of our community visit [our web page](https://ramshackle-code.github.io)
 
 © Ramshackel Code 2023
