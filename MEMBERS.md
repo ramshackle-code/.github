@@ -28,6 +28,6 @@ We kindly request all members, users, contributors, and administrators of the or
 
 ## How to become member?
 
-To become a member, please consult our website: https://ramshackle-code.github.io/members.html
+To become a member, please consult our website: https://ramshackle-code.piscinadeentropia.es/members.html
 
 © Ramshackel Code 2023
