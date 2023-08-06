@@ -21,6 +21,6 @@ Thank you for being part of this community and contributing to its success!
 
 ## Become Member
 
-If you want to start being part of our community visit [our web page](https://ramshackle-code.github.io)
+If you want to start being part of our community visit [our web page](https://ramshackle-code.piscinadeentropia.es)
 
 © Ramshackel Code 2023
